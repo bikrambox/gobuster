@@ -1,5 +1,7 @@
 package gobusterdir
 
+
+
 import (
 	"bufio"
 	"bytes"
